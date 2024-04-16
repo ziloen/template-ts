@@ -4,6 +4,7 @@
     "moduleResolution": "Bundler",
     "target": "ESNext",
     "strict": true,
+    "alwaysStrict": true,
     "removeComments": false,
     "stripInternal": true
   }
