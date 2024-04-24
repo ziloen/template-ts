@@ -11,6 +11,7 @@ export default defineConfig({
   format: ["esm"],
   platform: "node",
   treeshake: true,
+  skipNodeModulesBundle: true,
   sourcemap: false,
   clean: true,
 })
