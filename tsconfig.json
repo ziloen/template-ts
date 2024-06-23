@@ -5,6 +5,7 @@
     "target": "ESNext",
     "strict": true,
     "alwaysStrict": true,
+    "exactOptionalPropertyTypes": true,
     "removeComments": false,
     "stripInternal": true
   }
