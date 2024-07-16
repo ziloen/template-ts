@@ -13,7 +13,8 @@
   "scripts": {
     "build": "tsup",
     "prepack": "npm run build",
-    "release": "bumpp --commit --no-push && npm publish"
+    "release": "bumpp --commit --no-push && npm publish",
+    "test": "vitest"
   },
   "devDependencies": {
     "bumpp": "^9.4.1",
