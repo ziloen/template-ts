@@ -18,8 +18,8 @@
   },
   "devDependencies": {
     "bumpp": "^9.4.1",
-    "tsup": "^8.1.0",
-    "typescript": "^5.5.3",
-    "vitest": "^2.0.3"
+    "tsup": "^8.2.2",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.4"
   }
 }

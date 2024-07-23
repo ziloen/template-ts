@@ -6,6 +6,8 @@
     "strict": true,
     "alwaysStrict": true,
     "exactOptionalPropertyTypes": true,
+    "isolatedDeclarations": true,
+    "declaration": true,
     "removeComments": false,
     "stripInternal": true
   }
