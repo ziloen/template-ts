@@ -17,9 +17,9 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "bumpp": "^9.4.1",
-    "tsup": "^8.2.2",
-    "typescript": "^5.5.4",
-    "vitest": "^2.0.4"
+    "bumpp": "9.5.2",
+    "tsup": "8.2.4",
+    "typescript": "5.5.4",
+    "vitest": "2.0.5"
   }
 }
