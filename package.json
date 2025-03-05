@@ -17,11 +17,11 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "@ziloen/eslint-config": "0.1.55",
-    "bumpp": "9.8.1",
-    "eslint": "9.15.0",
-    "tsup": "8.3.5",
-    "typescript": "5.7.2",
-    "vitest": "2.1.6"
+    "@ziloen/eslint-config": "0.1.60",
+    "bumpp": "10.0.3",
+    "eslint": "9.21.0",
+    "tsup": "8.4.0",
+    "typescript": "5.8.2",
+    "vitest": "3.0.7"
   }
 }
