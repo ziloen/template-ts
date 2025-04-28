@@ -11,17 +11,17 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsup",
-    "prepack": "npm run build",
+    "build": "tsdown",
+    "prepack": "tsdown --minify",
     "release": "bumpp --commit --no-push && npm publish",
     "test": "vitest"
   },
   "devDependencies": {
-    "@ziloen/eslint-config": "0.1.60",
-    "bumpp": "10.0.3",
-    "eslint": "9.21.0",
-    "tsup": "8.4.0",
-    "typescript": "5.8.2",
-    "vitest": "3.0.7"
+    "@ziloen/eslint-config": "0.1.61",
+    "bumpp": "10.1.0",
+    "eslint": "9.25.1",
+    "tsdown": "0.10.0",
+    "typescript": "5.8.3",
+    "vitest": "3.1.2"
   }
 }
